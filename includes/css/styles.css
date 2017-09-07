@@ -50,27 +50,25 @@ font-size:15px;
 #section2 small{
 font-family: 'Bad Script', cursive;
 }
+#footer1 h6{ 
+margin-top: 50px;
+ }
+#footer3 h6{
+margin-left: 40px;
+}
 
-/* --------------------------------------
-   Layout
-   -------------------------------------- */
-
-
-/* -------------------------------------- 
-   Typography
-   -------------------------------------- */
-
-/* --------------------------------------
-   Navbar
-   -------------------------------------- */
-
+#footer4 h6{
+margin-left: 40px;
+}
 
 #logo{
   width: 80px;
   height: 60px;
 }
    
-
+#section4_1 img{
+margin-top: 40px;
+}
 
 /* --------------------------------------
    Global Styles
@@ -85,6 +83,9 @@ width: 60%;
 a {
 text-decoration:none;
 color:black
+}
+li{
+  list-style-type: none;
 }
 
 /* --------------------------------------
